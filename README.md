@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 2nd-year engineering student studying entirely in English and have placed 7th in national CTF competitions.
+I am a 2nd-year engineering student at the Faculty of Engineering in Foreign Languages, UPB.
 
 
 ## 🌐 Socials:
