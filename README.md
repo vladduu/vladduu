@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developing hardware-level solutions with Embedded Rust.<br>Cybersecurity projects and Capture The Flag (CTF) team challenges.<br>Mastering Rust for systems programming and advanced penetration testing techniques<br>Rust and deepening my knowledge in Computers and IT at FILS, UPB.<br>CTF competitions, Machine Learning for fake news detection, and Bash-based web servers.<br>I am a 2nd-year engineering student studying entirely in English and have placed 7th in national CTF competitions.
+I am a 2nd-year engineering student studying entirely in English and have placed 7th in national CTF competitions.
 
 
 ## 🌐 Socials:
